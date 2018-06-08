@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 -e git://github.com/boto/boto.git@develop#egg=boto
 paramiko==1.14.0
+=======
+boto==2.38.0
+paramiko==1.15.2
+future
+
+
+>>>>>>> upstream/master
